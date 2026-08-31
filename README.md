@@ -42,11 +42,6 @@ on your PATH, point Gradle at one explicitly, e.g.:
 JAVA_HOME=/path/to/a/java25/jdk ./gradlew build
 ```
 
-This has been built and compiles cleanly against the real Minecraft 26.2 /
-Fabric API 0.158.0+26.2 toolchain. See "The Netty connection mixin" below
-for the one part that was individually disassembled and verified rather than
-just compiled.
-
 ## Setting up a tunnel
 
 1. Launch the game once with the mod installed, it generates a fresh
