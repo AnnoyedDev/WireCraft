@@ -1,0 +1,29 @@
+WireCraft is licensed under the GNU Lesser General Public License v3.0
+(LGPL-3.0-or-later).
+
+Copyright (c) 2026 WireCraft contributors
+
+This library is free software: you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your
+option) any later version. The full license text is available at:
+
+    https://www.gnu.org/licenses/lgpl-3.0.html
+
+and its incorporated terms (the GNU General Public License v3.0) at:
+
+    https://www.gnu.org/licenses/gpl-3.0.html
+
+This library is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License
+for more details.
+
+--------------------------------------------------------------------------
+Modpack permission
+--------------------------------------------------------------------------
+
+You may include this mod, unmodified, in any modpack - public or private,
+free or monetized - without needing to ask for separate permission. Simply
+credit "WireCraft" and link back to the project's source repository
+(https://github.com/annoyeddev/wirecraft).

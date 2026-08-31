@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "wirecraft",
+	"version": "${version}",
+	"name": "WireCraft",
+	"description": "Tunnels only this game's connection to a Minecraft server through WireGuard.",
+	"authors": [
+		"AnnoyedDev"
+	],
+	"contact": {
+		"sources": "https://github.com/annoyeddev/wirecraft",
+		"issues": "https://github.com/annoyeddev/wirecraft/issues"
+	},
+	"license": "LGPL-3.0-or-later",
+	"icon": "assets/wirecraft/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.annoyeddev.VpnMinecraft"
+		],
+		"client": [
+			"com.annoyeddev.client.VpnMinecraftClient"
+		],
+		"modmenu": [
+			"com.annoyeddev.client.gui.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"wirecraft.mixins.json",
+		{
+			"config": "wirecraft.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": "*",
+		"modmenu": "*"
+	}
+}

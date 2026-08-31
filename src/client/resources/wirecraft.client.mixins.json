@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.annoyeddev.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ConnectionProxyMixin"
+	],
+	"injectors": {
+		"defaultRequire": 0
+	}
+}
