@@ -1,3 +1,4 @@
+![logo](/logomd.png)
 # WireCraft
 
 A Fabric client mod (Minecraft 26.2) that tunnels **only the Minecraft
