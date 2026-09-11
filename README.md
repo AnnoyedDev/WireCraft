@@ -115,8 +115,8 @@ a copy you downloaded and checked yourself.
 
 ## License and MODPACK
 
-WireCraft is licensed under the [GNU Lesser General Public License v3.0](LICENSE)
-(LGPL-3.0-or-later).
+WireCraft is licensed under the [GNU General Public License v3.0](LICENSE)
+(GPL-3.0-ony).
 
 You're welcome to include this mod, unmodified, in any modpack - public or
 private, free or monetized - without asking for separate permission first.
